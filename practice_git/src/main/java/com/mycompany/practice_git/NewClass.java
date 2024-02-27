@@ -1,17 +1,16 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-
 package com.mycompany.practice_git;
 
 /**
  *
  * @author hp_pc
  */
-public class Practice_git {
-
+public class NewClass {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.print("brancka");
+        System.out.print("thêm");
     }
+    
 }
