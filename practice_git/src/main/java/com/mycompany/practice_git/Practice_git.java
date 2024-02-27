@@ -13,5 +13,7 @@ public class Practice_git {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.print("brancka");
+        System.out.println("xin chào ");
+
     }
 }

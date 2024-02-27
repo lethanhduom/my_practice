@@ -10,7 +10,12 @@ package com.mycompany.practice_git;
  */
 public class NewClass {
     public static void main(String[] args) {
+
         System.out.print("thêm");
     }
     
+
+        System.out.println("com.mycompany.practice_git.NewClass.main()");
+    }
+
 }
